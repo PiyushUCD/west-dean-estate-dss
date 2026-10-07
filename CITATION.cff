@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite it as below."
+title: "Afforestation Leveraging the UK Woodland Carbon Code: A Spatial Carbon Decision-Support Tool for Estate-Scale Afforestation Planning at West Dean Estate"
+type: software
+authors:
+  - family-names: Patil
+    given-names: Piyush
+    affiliation: "UCD Michael Smurfit Graduate Business School"
+  - family-names: Chavan
+    given-names: Dheeraj
+    affiliation: "UCD Michael Smurfit Graduate Business School"
+  - family-names: Bhavsar
+    given-names: Mrunmayee
+    affiliation: "UCD Michael Smurfit Graduate Business School"
+date-released: 2026-08-17
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/PiyushUCD/west-dean-estate-dss"
+url: "https://public.tableau.com/app/profile/piyush.patil6025/viz/WestDeanEstateDSS/LandingPage"
+keywords:
+  - afforestation
+  - Woodland Carbon Code
+  - carbon credits
+  - spatial decision support
+  - Tableau
+  - business analytics
+abstract: >-
+  MSc Business Analytics capstone for West Dean Estate. A validated spatial
+  decision-support tool that identifies plantable land, matches species to soil
+  using Ecological Site Classification, quantifies carbon with the UK Woodland
+  Carbon Code v3.0 methodology (reproducing a certified project to within one
+  tonne of CO2e) and prices the resulting Pending Issuance Units.

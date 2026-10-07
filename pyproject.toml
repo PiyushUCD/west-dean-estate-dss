@@ -1,0 +1,28 @@
+[project]
+name = "wcc-carbon"
+version = "1.0.0"
+description = "Reference implementation of the West Dean afforestation decision-support arithmetic (UK Woodland Carbon Code v3.0)"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+  { name = "Piyush Patil" },
+  { name = "Dheeraj Chavan" },
+  { name = "Mrunmayee Bhavsar" },
+]
+dependencies = ["shapely>=2.0"]
+
+[project.optional-dependencies]
+charts = ["matplotlib>=3.7"]
+test = ["pytest>=7"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+build/
+dist/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Restricted inputs: never commit these (see docs/05_data_and_governance.md)
+*.twbx
+*.hyper
+*.xlsx
+*.geojson
+*.shp
+*.shx
+*.dbf
+*.prj
+raw/

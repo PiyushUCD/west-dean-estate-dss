@@ -1,0 +1,13 @@
+metric,scenario_a,scenario_b
+description,Full plantable area; equal split across 8 locked species per soil,~200 ha; top 4 species by ESC score per soil
+planted_area_ha,1982.76,200
+gross_co2e_year_65_tco2e,867063,72652
+gross_co2e_year_100_tco2e,983882,81078
+claimable_piu_year_100_tco2e,629636,51841
+buffer_100yr_tco2e,157409,12961
+piu_per_ha_tco2e,317.6,259.2
+revenue_per_ha_gbp_at_26_85,8528,6960
+year_25_share_of_piu_pct,27.2,33.5
+cumulative_piu_to_year_65_pct,88.1,89.6
+revenue_100yr_gbp_at_26_85,16905727,1391931
+revenue_to_year_65_gbp_at_26_85,14900000,1250000

@@ -1,0 +1,5 @@
+soil_zone,natmap_series,sites,area_ha,share_of_plantable_pct,esc_grid_reference,smr,snr
+Chalk,"Andover 1; Andover 2; Upton 1",334,1840.79,92.9,SU 826 146,7.0 (Moderately dry),6.0 (Carbonate)
+Lime Loam,Coombe 1,29,67.24,3.4,SU 874 130,5.0 (Fresh),6.0 (Carbonate)
+Floodplain,Frome,16,59.75,3.0,SU 855 116,3.0 (Very moist),4.0 (Rich)
+Acid Loam,Carstens,5,14.98,0.8,SU 817 147,6.0 (Slightly dry),4.0 (Rich)

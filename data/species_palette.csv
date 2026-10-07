@@ -1,0 +1,33 @@
+soil_zone,rank,common_name,scientific_name,wcc_growth_model,native_status,esc_score,esc_class
+Chalk,1,Wild service tree,Sorbus torminalis,SAB,Native,0.65,Suitable
+Chalk,2,Italian alder,Alnus cordata,SAB,Non-native,0.61,Suitable
+Chalk,3,Hornbeam,Carpinus betulus,BE,Native,0.56,Suitable
+Chalk,4,Norway maple,Acer platanoides,SAB,Non-native,0.55,Suitable
+Chalk,5,Willow (SRC),Salix viminalis,SAB,Non-native,0.52,Suitable
+Chalk,6,Beech,Fagus sylvatica,BE,Native,0.51,Suitable
+Chalk,7,Leyland cypress,Cuprocyparis leylandii,LEC,Non-native,0.50,Suitable
+Chalk,8,Eucalyptus glaucescens,Eucalyptus glaucescens,SAB,Non-native,0.49,Marginal
+Lime Loam,1,Wild cherry,Prunus avium,SAB,Native,0.96,Very suitable
+Lime Loam,2,Small-leaved lime,Tilia cordata,SAB,Native,0.66,Suitable
+Lime Loam,3,Western red cedar,Thuja plicata,RC,Non-native,0.71,Suitable
+Lime Loam,4,Serbian spruce,Picea omorika,NS,Non-native,0.70,Suitable
+Lime Loam,5,Sycamore,Acer pseudoplatanus,SAB,Non-native,0.67,Suitable
+Lime Loam,6,Nordmann fir,Abies nordmanniana,NF,Non-native,0.64,Suitable
+Lime Loam,7,Grey alder,Alnus incana,SAB,Non-native,0.61,Suitable
+Lime Loam,8,European silver fir,Abies alba,NF,Non-native,0.59,Suitable
+Floodplain,1,Black poplar,Populus nigra,SAB,Native,1.00,Very suitable
+Floodplain,2,Common alder,Alnus glutinosa,SAB,Native,0.99,Very suitable
+Floodplain,3,Aspen,Populus tremula,SAB,Native,0.93,Very suitable
+Floodplain,4,Pedunculate oak,Quercus robur,OK,Native,0.90,Very suitable
+Floodplain,5,Lodgepole pine,Pinus contorta,LP,Non-native,1.00,Very suitable
+Floodplain,6,Macedonian pine,Pinus peuce,CP,Non-native,1.00,Very suitable
+Floodplain,7,Cider gum,Eucalyptus gunnii,SAB,Non-native,0.92,Very suitable
+Floodplain,8,Norway spruce,Picea abies,NS,Non-native,0.80,Very suitable
+Acid Loam,1,Scots pine,Pinus sylvestris,SP,Native,1.00,Very suitable
+Acid Loam,2,Rowan,Sorbus aucuparia,SAB,Native,1.00,Very suitable
+Acid Loam,3,Holly,Ilex aquifolium,SAB,Native,0.99,Very suitable
+Acid Loam,4,Sessile oak,Quercus petraea,OK,Native,0.98,Very suitable
+Acid Loam,5,True service tree,Sorbus domestica,SAB,Native (rare),0.90,Very suitable
+Acid Loam,6,Silver birch,Betula pendula,SAB,Native,0.87,Very suitable
+Acid Loam,7,Wych elm,Ulmus glabra,BE,Native,0.81,Very suitable
+Acid Loam,8,Rauli beech,Nothofagus alpina,SAB,Non-native,1.00,Very suitable

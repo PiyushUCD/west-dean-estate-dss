@@ -1,0 +1,11 @@
+model,description,valid_spacing_m,valid_yield_class,species_count
+SAB,General broadleaf,"1.5; 2.5; 3; 4; 5","2; 4; 6; 8; 10; 12",18
+BE,Beech and similar,"1.2; 2.5; 3; 4; 5","2; 4; 6; 8; 10",3
+OK,Oak,"1.2; 2.5; 3; 4; 5","2; 4; 6; 8",2
+SP,Scots pine,"1.4; 2; 2.5; 3; 4; 5","2; 4; 6; 8; 10; 12; 14",1
+LEC,Leyland cypress,1.5,"12; 14; 16; 18; 20; 22; 24",1
+RC,Western red cedar,1.5,"12; 14; 16; 18; 20; 22; 24",1
+NS,Norway spruce group,1.5,"6; 8; 10; 12; 14; 16; 18; 20; 22",2
+NF,Nordmann and silver fir,1.5,"10; 12; 14; 16; 18; 20; 22",2
+LP,Lodgepole pine,1.5,"4; 6; 8; 10; 12; 14",1
+CP,Corsican pine group,1.4,"6; 8; 10; 12; 14; 16; 18; 20",1
