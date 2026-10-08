@@ -284,7 +284,7 @@ print(trees_per_hectare(2.5, "triangular"))   # 1848
 | | Role on the tool | Wider contribution |
 |---|---|---|
 | **Piyush Patil** · [@PiyushUCD](https://github.com/PiyushUCD) | Overview dashboard (estate map, parcel selection, soil areas) | Spatial data preparation, report |
-| **Dheeraj Chavan** | Mix Configuration dashboard (species allocation, WCC parameter guard-rails) | Species suitability methodology, report |
+| **Dheeraj Chavan** · [@DheerajChavan23](https://github.com/DheerajChavan23) | Mix Configuration dashboard (species allocation, WCC parameter guard-rails) | Species suitability methodology, report |
 | **Mrunmayee Bhavsar** | Financials dashboard (PIU vintages, revenue, price sensitivity) | Financial modelling, report |
 
 The CO₂ dashboard and the carbon engine were built jointly.
